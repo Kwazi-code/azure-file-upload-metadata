@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "YourAzureWebJobsStorageConnectionString",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "BlobConnectionString": "YourBlobConnectionString",
+    "CosmosEndpoint": "YourCosmosEndpoint",
+    "CosmosKey": "YourCosmosKey",
+    "DatabaseId": "FileMetadataDB",
+    "ContainerId": "MetadataContainer"
+  }
+}
